@@ -83,12 +83,12 @@ Vitest, Jest, Code Review, Accessibility (WCAG), Performance Optimization, SEO[c
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bvffblvde&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bvffblvde&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bvffblvde&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvffblvde&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bvffblvde&hide_border=true&theme=transparent" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=bvffblvde&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
